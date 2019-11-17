@@ -1,5 +1,5 @@
 ## Palindrome Papi presents: Can You Flip It And Reverse It?
-This web app checks whether or not submitted words or phrases are palindromes, and stores the input and result in a database.  Styled with an Alyson Stoner gif from the iconic Missy Elliot "Work It" video, which coined the popular phrase, "I put my thang down, flip it, and reverse it."
+This web app checks whether or not submitted words or phrases are palindromes, and stores the input and result in a database.  Styled with an Alyson Stoner gif from the iconic Missy Elliot "Work It" video, which coined the popular phrase, "I put my thang down, flip it, and reverse it." Video: https://www.youtube.com/watch?v=cjIvu7e6Wq8
 
 ![alt tag](https://github.com/anthonybetances/PalindromePapi/blob/master/Screen%20Shot%202019-11-16%20at%208.08.59%20PM.png)
 ## How It's Made:
